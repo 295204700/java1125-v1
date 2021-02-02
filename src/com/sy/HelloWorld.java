@@ -10,5 +10,7 @@ package com.sy;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("上元教育");
+        System.out.println("上元教育master");
     }
+
 }

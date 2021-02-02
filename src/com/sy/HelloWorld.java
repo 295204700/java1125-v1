@@ -14,5 +14,6 @@ public class HelloWorld {
         System.out.println("上元教育master2");
         System.out.println("上元教育master3");
         System.out.println("上元教育dev03");
+        System.out.println("上元教育local");
     }
 }
